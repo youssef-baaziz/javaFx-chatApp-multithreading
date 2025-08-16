@@ -16,7 +16,7 @@ A modern, real-time chat application built in **Java** with a sleek **JavaFX** u
 
 ## 📷 Screenshot
 
-![Chat Demo](/screenshoots/ChatMultithreads.png)
+![Chat Demo](/screenshoots/ChatMultithreadss.png)
 
 ## ⚙️ Key Features
 
